@@ -39,39 +39,24 @@ The objective of this project is to create a REST API using Express.js that serv
 - **GET /users**
   - **Description**: Returns an HTML list of user first names.
   - **Response**: HTML formatted list.
+![Screenshot 2024-08-14 161707](https://github.com/user-attachments/assets/ea9fa549-1a85-4fa8-b690-9bd647a61130)
 
 - **GET /api/users**
   - **Description**: Returns a JSON array of all users.
   - **Response**:
-    ```json
-    [
-      {
-        "id": 1,
-        "first_name": "John",
-        "last_name": "Doe",
-        ...
-      },
-      ...
-    ]
-    ```
+  ![Screenshot 2024-08-14 161726](https://github.com/user-attachments/assets/339df68f-a06e-47f8-937d-ad6836cdb72e)
+
 
 - **GET /api/users/:id**
   - **Description**: Returns details of a user with the specified ID.
   - **Response**:
-    ```json
-    {
-      "id": 1,
-      "first_name": "John",
-      "last_name": "Doe",
-      ...
-    }
-    ```
+   
 ## *Project Structure*
+![Screenshot 2024-08-14 161920](https://github.com/user-attachments/assets/053e6028-ac9b-4ccf-b084-bb51c689f955)
 
 - **index.js**: *Main server file where routes and server configuration are defined.*
 - **MOCK_DATA.json**: *JSON file containing user data.*
 - **package.json**: *Project metadata and dependencies.*
 - **package-lock.json**: *Dependency versions lock file.*
-
 
 
