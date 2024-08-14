@@ -1,9 +1,10 @@
-**Name:** RAGHAV KUSHWAHA 
+**Name:** RAGHAV KUSHWAHA  
 **Company:** CODTECH IT SOLUTIONS  
-**ID:** CT04DS6323
-**Domain:** Backend 
+**ID:** CT04DS6323  
+**Domain:** Backend  
 **Duration:** August to September 2024  
-**Mentor:** Muzammil Ahmed
+**Mentor:** Muzammil Ahmed  
+
 
 ## *Overview of the Project*
 
