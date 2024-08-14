@@ -50,9 +50,8 @@ The objective of this project is to create a REST API using Express.js that serv
 - **GET /api/users/:id**
   - **Description**: Returns details of a user with the specified ID.
   - **Response**:
-   
+   ![Screenshot 2024-08-14 161920](https://github.com/user-attachments/assets/053e6028-ac9b-4ccf-b084-bb51c689f955)
 ## *Project Structure*
-![Screenshot 2024-08-14 161920](https://github.com/user-attachments/assets/053e6028-ac9b-4ccf-b084-bb51c689f955)
 
 - **index.js**: *Main server file where routes and server configuration are defined.*
 - **MOCK_DATA.json**: *JSON file containing user data.*
